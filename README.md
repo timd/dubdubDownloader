@@ -32,3 +32,5 @@ Being a small but ^H^H^Hequisitely hackily-formed shell script to download WWDC 
 
 
 The script is based on a gist by Florien Kugler: https://gist.github.com/dkduck/5760217
+
+Dependency: You'll need `ffmpeg` installed - if you've installed Homebrew, then `brew install ffmpeg` will do the trick
