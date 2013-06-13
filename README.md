@@ -28,5 +28,7 @@ Being a small but equisitely-formed shell script to download WWDC videos direct 
 
      `ipad` for 720p
 
+  e.g. `./getwwvid.sh http://devstreaming.apple.com/videos/wwdc/2013/201xex2xxf5ynwnsgl/201 buildingUserInterfacesForIos7.mp4 iphone`
+
 
 The script is based on a gist by Florien Kugler: https://gist.github.com/dkduck/5760217
