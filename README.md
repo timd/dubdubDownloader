@@ -26,7 +26,7 @@ Being a small but equisitely-formed shell script to download WWDC videos direct 
 
      `iphone` for 960x540
 
-     `ipad' for 720p
+     `ipad` for 720p
 
 
 The script is based on a gist by Florien Kugler: https://gist.github.com/dkduck/5760217
