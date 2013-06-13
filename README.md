@@ -16,9 +16,9 @@ Being a small but equisitely-formed shell script to download WWDC videos direct 
 
     `<url>` is the url you created in step 4
 
-    '<filename>' is the filename to save the video as (a .mp4 extension will be automatically appended)
+    `<filename>` is the filename to save the video as (a `.mp4` extension will be automatically appended)
 
-    '<format>' is the format you want the video in: values are
+    `<format>` is the format you want the video in: values are
 
-        `iphone` for 960x540
-        `ipad' for 720p
+     `iphone` for 960x540
+     `ipad' for 720p
