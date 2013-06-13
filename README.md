@@ -1,6 +1,6 @@
 #WWDC video downloader
 
-Being a small but equisitely-formed shell script to download WWDC videos direct from the web using ffmpeg.
+Being a small but ^H^H^Hequisitely hackily-formed shell script to download WWDC videos direct from the web using ffmpeg.
 
 ##Process
 
